@@ -1,0 +1,117 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, freesans, sans-serif;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+    color: #000;
+}
+
+@media (max-width: 992px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        font-size: 10px;
+    }
+}
+
+html, body, #map {
+    height: 100%;
+}
+
+#box {
+    font-size: 0.85em;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.65);
+    padding: 10px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    min-width: 115px;
+    max-width: 215px;
+}
+
+#box h4 {
+    margin: 4px auto;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.help {
+    color: #999;
+    font-size: 90%;
+    font-weight: normal;
+}
+
+#legend table {
+    border-collapse: separate;
+    border-spacing: 1px;
+}
+
+#legend table tr td {
+    text-align: left;
+    line-height: 1.6em;
+    display: inline-block;
+    height: 1.6em;
+}
+
+td {
+    white-space: nowrap;
+}
+
+#legend table tr td.key {
+    width: 1.6em;
+    border-style: solid;
+    border-width: 1px;
+    text-align: right;
+}
+
+.button-close,
+.button-show {
+    font-family: serif;
+    font-weight: bold;
+    font-size: 12px;
+    position: absolute;
+    background-color: rgb(204, 204, 204);
+    box-sizing: border-box;
+    height: 24px;
+    width: 24px;
+    right: -6px;
+    top: -6px;
+    border: 3px solid #777;
+    border-radius: 12px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    -webkit-user-select: none; /* Chrome all / Safari all */
+    -moz-user-select: none; /* Firefox all */
+    -ms-user-select: none; /* IE 10+ */
+    user-select: none; /* Likely future */
+
+    text-align: center;
+}
+
+.button-show {
+    font-family: serif;
+}
+
+#box-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.no-gutter > [class*='col-'] {
+    padding-right: 0;
+    padding-left: 0;
+}
+
