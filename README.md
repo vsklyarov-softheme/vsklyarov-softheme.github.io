@@ -1,20 +1,32 @@
-Подібні карти існують для багатьох міст світу. Ось наприклад карта будівель Амстердаму.
+# Vadym  Skliarov
+### C#/.NET Backend Software Engineer
+sklyarov.vadym@gmail.com | +380957949574 | Linkedin: [Vadym Skliarov](https://www.linkedin.com/in/vadym-skliarov-676936b7/) | Facebook: [Vadym Skliarov](https://www.facebook.com/vadymskliarov)
 
-А це така ж карта для Брукліну
-
-Такі проекти дають змогу краще зрозуміти місто, побачити історію його розбудови.
-
-В розвинених країнах настільки детальні карти стали можливі завдяки наявності відкритих даних про будівлі міста. Україна ж знаходиться лише на початку довгого шляху до справжньої доступності публічної інформації.
-
-Щоб намалювати цю мапу нам довелося шукати інформацію на сайтах з оголошеннями про оренду та купівлю квартир. Наш запит до Київської міської державної адміністрації на надання відповідної інформації було передано до Департаменту містобудування та архітектури, але наразі жодної відповіді так і не було отримано.
-
-Як бачите, виглядає вона не настільки наповненою, як попередні мапи. Це й не дивно, адже на карті Києва з OpenStreetMap більше 80 тисяч будівель. Нам вдалося знайти дані лише про 8 тисяч житлових будинків.
-
-Сподіваємося, що колись на цій карті все ж будуть всі будівлі Києва. А колись, можливо, ми зможемо зробити такі ж карти для всіх міст України.
-
-В наших планах зробити аналіз і візуалізацію зібраних даних, а також створити карту, де кожен міг би вказати рік будівництва свого будинка.
-
-Автори: Вадим Скляров та Влад Герасименко Будемо вдячні за пропозиції та критику. Надсилайте відгуки за адресою: sklyarov.vadym@gmail.com або ж пишіть приватні повідомлення нам у соцмережах.
-
-Далі буде.
-
+### Summary
+I am a software engineer with more than 3 years of experience in designing, developing, documenting and releasing complex software solutions using cutting-edge industry standard tools and practices. I enjoy building good relationships with coworkers and tackling challenging problems as a united team.
+### Experience
+- March 2015—May 2015 C# Intern, Softheme, Kyiv
+- June 2015—till now C#/.NET Backend Software Engineer, Softheme, Kyiv
+### Education
+- 2011—2015 BA in Computer Science, National Technical University of Ukraine 'Kyiv Polytechnic  Institute', FICT
+### Languages
+- English – C1(TOEFL score 93 out of 120, passed in 2015)
+- Ukrainian – native
+- Russian – fluent
+### Skills
+-   C#:  LINQ, async/await, ASP.NET Web API, TPL, WCF, ASP.NET MVC
+    
+-   Microsoft Azure Services: Cosmos DB, Service Bus, Table Storage, Blobs
+    
+-   Azure Service Fabric and microservices
+    
+-   CI/CD: Git, Teamcity, Github
+    
+-   Virtualization: vSphere API, Hyper-V API
+    
+-   Crash/hang memory dump analysis
+    
+-   Windows internals basics: minifilter drivers, exploring application behavior using sysinternals tools
+    
+-   Powershell, WMI
+### Projects
